@@ -1,0 +1,21 @@
+---
+name: User story
+about: Create a user story with Gherkin acceptance criteria
+title: 'US: <short name>'
+labels: label
+assignees: ''
+
+---
+
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]  
+
+### Details and Assumptions
+* [document what you know]
+
+### Acceptance Criteria
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
