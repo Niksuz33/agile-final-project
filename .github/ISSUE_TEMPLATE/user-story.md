@@ -1,7 +1,7 @@
 ---
 name: User story
 about: Create a user story with Gherkin acceptance criteria
-title: 'US: <short name>'
+title: "<short name>"
 labels: label
 assignees: ''
 
